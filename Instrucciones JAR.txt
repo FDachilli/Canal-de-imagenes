@@ -1,0 +1,10 @@
+Advertencia sobre uso del ejecutable: 
+
+*Las imagenes deben estar en el mismo directorio que el archivo TeoriaTp5.jar
+
+*Para 'Pasar la imagen nebula por el canal' primero hay que 'Calcular canal con stars_8'
+*Para 'Calcular utilizando convergencia' o 'Calcular utilizando N iteraciones' 
+primero es necesario 'Calcular canal con stars_8'
+*Para 'Calcular utilizando convergencia' o 'Calcular utilizando N iteraciones' de la imagen nebula 
+primero es necesario 'Calcular canal con stars_8' y luego 'Pasar imagen nebula por el canal'
+
